@@ -1,3 +1,6 @@
  *.env
 bookbot-ignore
 books
+*.pyc
+alias.txt
+practice-first.py
